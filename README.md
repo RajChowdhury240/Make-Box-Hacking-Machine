@@ -1,6 +1,7 @@
 # Make-Box-Hacking-Machine
 ## Box Hacking Maching building tutorial
 
+
 we gonna see how you can make your own CTF or if you have an idea to introduce a vulnerability that you want to teach people that shows how severe that  vulnerability is and how you can exploit it so you can do it by making a box and then configure it according to the vulnerability. So I am going to show a basic example of how you can make it. Its' a basic idea that I come up with when I was creating my first vulnerable box.
 
 Now the one which I am creating there won't be anything new because I will be using an old version of ubuntu which is vulnerable to dirty cow exploit but the important thing is that how you may configure the box , opening FTP,SSH and HTTP services on it or maybe changing the port number.
